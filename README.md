@@ -5,9 +5,9 @@
 * 8x8 LED 矩陣，用來顯示勝負與是否猜對方向。下圖為左側勝利。<br>
 <img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214302.png" width="300"/><br>
 * 七段顯示器，用來顯示比分,圖中是0:7。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO2.jpg" width="300"/><br>
+<img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214430.png" width="300"/><br>
 * LED 陣列，用來顯示階段,圖中是第一階段。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO3.jpg" width="300"/><br>
+<img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214748.png" width="300"/><br>
 
 #### 功能說明:<br>
 左方與右方玩家對戰，先得七分者獲勝。<br>
@@ -20,4 +20,4 @@ output reg [7:0]Blue //藍色燈,output reg [4:0]A_count,B_count //計分,output
 
 #### Demo video: (請將影片放到雲端空間)
 
-<a href="https://drive.google.com/file/d/1dsUKFF945moWpXyD0L86eseNf1l3repO/view?usp=sharing" title="Demo Video"><img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" alt="Demo Video" width="500"/></a>
+<a href="https://drive.google.com/file/d/1ktaLv8kZ-mkOttH3KR1Fg1P0_Nn6OIwl/view?pli=1" title="Demo Video"><img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214748.png" alt="Demo Video" width="500"/></a>
