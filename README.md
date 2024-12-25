@@ -20,4 +20,4 @@ output reg [7:0]Blue //藍色燈,output reg [4:0]A_count,B_count //計分,output
 
 #### Demo video: (請將影片放到雲端空間)
 
-<a href="https://drive.google.com/file/d/1ktaLv8kZ-mkOttH3KR1Fg1P0_Nn6OIwl/view?pli=1" title="Demo Video"><img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214748.png" alt="Demo Video" width="500"/></a>
+<a href="https://drive.google.com/file/d/1ktaLv8kZ-mkOttH3KR1Fg1P0_Nn6OIwl/view?pli=1" title="Demo Video"><img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20220215.png" alt="Demo Video" width="500"/></a>
