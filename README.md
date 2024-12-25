@@ -3,7 +3,7 @@
 
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示勝負與是否猜對方向。下圖為左側勝利。<br>
-<img src="[https://github.com/kamiry/FPGA-project-1/blob/master/images/IO1.jpg](https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214302.png)" width="300"/><br>
+<img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214302.png" width="300"/><br>
 * 七段顯示器，用來顯示比分,圖中是0:7。<br>
 <img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO2.jpg" width="300"/><br>
 * LED 陣列，用來顯示階段,圖中是第一階段。<br>
