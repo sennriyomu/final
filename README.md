@@ -10,13 +10,13 @@
 <img src="https://github.com/sennriyomu/final/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-12-25%20214748.png" width="300"/><br>
 
 #### 功能說明:<br>
-左方與右方玩家對戰，先得七分者獲勝。<br>
+黑白猜遊戲，左方與右方玩家對戰，先得七分者獲勝。<br>
 
 #### 程式模組說明:<br>
-module demo (output reg [7:0] DATA_R, DATA_G, DATA_B,output reg [3:0] COMM,rnd,
-output reg [2:0]flag,step,Left_score,Right_score,
-output reg [1:0]COM,mora_result,output reg [6:0] seg,input CLK,
-input [2:0] Left_mora,Right_mora,input [3:0] Left_direct,Right_direct); <br>
+module demo (output reg [7:0] DATA_R, DATA_G, DATA_B,//控制燈的顏色output reg [3:0] COMM//En,S0,S1,S2,,rnd//隨機決定猜拳輸的人的方向,
+output reg [2:0]flag方向結果印在8*8的圖案,step//各階段,Left_score//左邊分數,Right_score//右邊分數,
+output reg [1:0]COM//控制分數在哪格七段顯示器印出,mora_result//猜拳結果,output reg [6:0] seg//七段顯示器,input CLK//輸出頻率,
+input [2:0] Left_mora//左邊猜拳手勢,Right_mora//右邊猜拳手勢,input [3:0] Left_direct//左邊的方向,Right_direct//右邊的方向); <br>
 
 #### Demo video: (請將影片放到雲端空間)
 
